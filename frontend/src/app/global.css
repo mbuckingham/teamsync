@@ -1,16 +1,16 @@
 :root {
   color-scheme: light dark;
 
-  --primary: #F79E00;
+  --primary: #043e42;
 
   /* LIGHT */
   --background-light: #FFFFFF;
   --text-light: #000000;
-  --shadow-light: #F48600;
-  --highlight-light: #F4BB60;
+  --shadow-light: #043e42;
+  --highlight-light: #075b61;
   --secondary-light: var(--shadow-light);
   --tertiary-light: var(--highlight-light);
-  --surface-light: #FEF2DD;
+  --surface-light: #d3e1e3;
   --error-light: #D32F2F;
   --loading-light: #DDDDDD;
   --font-weight-light: 600;
@@ -19,7 +19,7 @@
   --background-dark: #111111;
   --text-dark: #DDDDDD;
   --shadow-dark: #CC7313;
-  --highlight-dark: #F4BB60;
+  --highlight-dark: #043e42;
   --secondary-dark: var(--highlight-dark);
   --tertiary-dark: var(--shadow-dark);
   --surface-dark: #30240F;
