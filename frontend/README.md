@@ -1,4 +1,4 @@
-# Crab Fit Frontend
+# teamsync Frontend
 
 This is the frontend for Crab Fit, written in TypeScript and SCSS, using Next.js app router.
 
