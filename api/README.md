@@ -1,6 +1,6 @@
-# Crab Fit API
+# teamsync API
 
-This is the API for Crab Fit, written in Rust. It uses the [axum](https://crates.io/crates/axum) framework to run a HTTP server, and supports multiple storage adaptors.
+This is the API for teamsync, written in Rust. It uses the [axum](https://crates.io/crates/axum) framework to run a HTTP server, and supports multiple storage adaptors.
 
 ## API docs
 
